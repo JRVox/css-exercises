@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(218, 84, 106);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#title {
+    color: rgb(11, 11, 197);
+    font-size: 36px;
+}
+
+.alert-text {
+    font-size: 24px;
+}
+
+#bid {
+    background-color: rgb(89, 185, 89);
+    font-size: 24px;
+    font: bold;
+}
