@@ -15,5 +15,5 @@ p {
 #bid {
     background-color: rgb(89, 185, 89);
     font-size: 24px;
-    font: bold;
+    font-weight: bolder;
 }
